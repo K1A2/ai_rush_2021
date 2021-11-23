@@ -1,0 +1,8 @@
+.*.swp
+*.pyc
+.DS_Store
+*.egg-info
+.eggs
+venv
+.idea
+**/README_explain.md
